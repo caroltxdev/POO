@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\GitHub\POO\composite\bin\Debug\net9.0\composite.exe
+C:\Users\Usuario\Documents\GitHub\POO\composite\bin\Debug\net9.0\composite.deps.json
+C:\Users\Usuario\Documents\GitHub\POO\composite\bin\Debug\net9.0\composite.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\POO\composite\bin\Debug\net9.0\composite.dll
+C:\Users\Usuario\Documents\GitHub\POO\composite\bin\Debug\net9.0\composite.pdb
+C:\Users\Usuario\Documents\GitHub\POO\composite\obj\Debug\net9.0\composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\POO\composite\obj\Debug\net9.0\composite.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\POO\composite\obj\Debug\net9.0\composite.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\POO\composite\obj\Debug\net9.0\composite.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\POO\composite\obj\Debug\net9.0\composite.sourcelink.json
+C:\Users\Usuario\Documents\GitHub\POO\composite\obj\Debug\net9.0\composite.dll
+C:\Users\Usuario\Documents\GitHub\POO\composite\obj\Debug\net9.0\refint\composite.dll
+C:\Users\Usuario\Documents\GitHub\POO\composite\obj\Debug\net9.0\composite.pdb
+C:\Users\Usuario\Documents\GitHub\POO\composite\obj\Debug\net9.0\composite.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\POO\composite\obj\Debug\net9.0\ref\composite.dll

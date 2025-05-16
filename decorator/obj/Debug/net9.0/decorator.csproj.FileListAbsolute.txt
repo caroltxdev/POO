@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\GitHub\POO\decorator\bin\Debug\net9.0\decorator.exe
+C:\Users\Usuario\Documents\GitHub\POO\decorator\bin\Debug\net9.0\decorator.deps.json
+C:\Users\Usuario\Documents\GitHub\POO\decorator\bin\Debug\net9.0\decorator.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\POO\decorator\bin\Debug\net9.0\decorator.dll
+C:\Users\Usuario\Documents\GitHub\POO\decorator\bin\Debug\net9.0\decorator.pdb
+C:\Users\Usuario\Documents\GitHub\POO\decorator\obj\Debug\net9.0\decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\POO\decorator\obj\Debug\net9.0\decorator.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\POO\decorator\obj\Debug\net9.0\decorator.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\POO\decorator\obj\Debug\net9.0\decorator.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\POO\decorator\obj\Debug\net9.0\decorator.sourcelink.json
+C:\Users\Usuario\Documents\GitHub\POO\decorator\obj\Debug\net9.0\decorator.dll
+C:\Users\Usuario\Documents\GitHub\POO\decorator\obj\Debug\net9.0\refint\decorator.dll
+C:\Users\Usuario\Documents\GitHub\POO\decorator\obj\Debug\net9.0\decorator.pdb
+C:\Users\Usuario\Documents\GitHub\POO\decorator\obj\Debug\net9.0\decorator.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\POO\decorator\obj\Debug\net9.0\ref\decorator.dll

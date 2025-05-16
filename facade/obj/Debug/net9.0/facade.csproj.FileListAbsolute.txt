@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\GitHub\POO\facade\bin\Debug\net9.0\facade.exe
+C:\Users\Usuario\Documents\GitHub\POO\facade\bin\Debug\net9.0\facade.deps.json
+C:\Users\Usuario\Documents\GitHub\POO\facade\bin\Debug\net9.0\facade.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\POO\facade\bin\Debug\net9.0\facade.dll
+C:\Users\Usuario\Documents\GitHub\POO\facade\bin\Debug\net9.0\facade.pdb
+C:\Users\Usuario\Documents\GitHub\POO\facade\obj\Debug\net9.0\facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\POO\facade\obj\Debug\net9.0\facade.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\POO\facade\obj\Debug\net9.0\facade.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\POO\facade\obj\Debug\net9.0\facade.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\POO\facade\obj\Debug\net9.0\facade.sourcelink.json
+C:\Users\Usuario\Documents\GitHub\POO\facade\obj\Debug\net9.0\facade.dll
+C:\Users\Usuario\Documents\GitHub\POO\facade\obj\Debug\net9.0\refint\facade.dll
+C:\Users\Usuario\Documents\GitHub\POO\facade\obj\Debug\net9.0\facade.pdb
+C:\Users\Usuario\Documents\GitHub\POO\facade\obj\Debug\net9.0\facade.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\POO\facade\obj\Debug\net9.0\ref\facade.dll
